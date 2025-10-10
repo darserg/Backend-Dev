@@ -1,3 +1,4 @@
 .vscode/
 .venv/
 sprint-2/__pycache__
+.ruff_cashe/
